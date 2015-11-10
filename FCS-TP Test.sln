@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FCS-TP Test", "FCS-TP Test\FCS-TP Test.fsproj", "{DCFA7A78-C331-49A9-ADC4-936586BB1DC3}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestTP", "TestTP\TestTP.fsproj", "{FF76BD3C-5E0A-4752-B6C3-044F6E15719B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestProject", "TestProject\TestProject.fsproj", "{ED64425E-B549-439A-B105-6C921A81F31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFA7A78-C331-49A9-ADC4-936586BB1DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFA7A78-C331-49A9-ADC4-936586BB1DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFA7A78-C331-49A9-ADC4-936586BB1DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFA7A78-C331-49A9-ADC4-936586BB1DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF76BD3C-5E0A-4752-B6C3-044F6E15719B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF76BD3C-5E0A-4752-B6C3-044F6E15719B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF76BD3C-5E0A-4752-B6C3-044F6E15719B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF76BD3C-5E0A-4752-B6C3-044F6E15719B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED64425E-B549-439A-B105-6C921A81F31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED64425E-B549-439A-B105-6C921A81F31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED64425E-B549-439A-B105-6C921A81F31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED64425E-B549-439A-B105-6C921A81F31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
